@@ -19,3 +19,6 @@
 
 ### Update 14:27
 - Note: Added new point
+
+### Update 14:27
+- Note: Improved explanation
