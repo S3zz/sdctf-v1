@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # CONFIGURATION
-FILE="data.txt"
+FILE="../data.txt"
 BRANCH="main"
 NUM_COMMITS=50
 
