@@ -6,3 +6,7 @@ function func116() {
 function func493() {
   console.log('Function func493 executed');
 }
+
+function func960() {
+  console.log('Function func960 executed');
+}
