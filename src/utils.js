@@ -14,3 +14,7 @@ function func960() {
 function func352() {
   console.log('Function func352 executed');
 }
+
+function func666() {
+  console.log('Function func666 executed');
+}
